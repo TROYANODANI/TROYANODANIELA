@@ -15,7 +15,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 ### 🎯 Actualmente:
-- 🔭 **Trabajando en:** FAMASY - Sistema de gestión farmacéutica
+- 🔭 **Trabajando en:** FAMASY - Sistema de gestión granja.
 - 🌱 **Aprendiendo:** Framework React, Python avanzado y TypeScript
 - 👯 **Colaborando en:** Proyectos open source y soluciones innovadoras
 - 🎓 **Perfeccionando:** Arquitecturas de software y mejores prácticas
@@ -108,21 +108,23 @@ Me encanta aprender nuevas tecnologías y compartir mis conocimientos con la com
 
 ---
 
-## 🎯 Proyectos Destacados
+## 🚀 En Desarrollo
 
 <div align="center">
-  <a href="https://github.com/troyanodani/FAMASY">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=troyanodani&repo=FAMASY&theme=tokyonight" alt="FAMASY" />
-  </a>
-  <a href="https://github.com/troyanodani/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=troyanodani&repo=portfolio&theme=tokyonight" alt="Portfolio" />
-  </a>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200" alt="Coding GIF"/>
 </div>
 
-### 🌟 Otros proyectos interesantes:
-- 🔧 **Sistema de gestión farmacéutica** - React + Python + PostgreSQL
-- 🌐 **Portfolio personal** - React + TypeScript + CSS3
-- 📱 **App de productividad** - Vue.js + Node.js + MongoDB
+### 🛠️ Proyectos en los que estoy trabajando:
+- 💊 **FAMASY** - Sistema de gestión farmacéutica (React + Python)
+- 📚 **Aprendiendo React** - Explorando hooks avanzados y patrones
+- 🐍 **Python Projects** - Practicando con APIs y automatización
+- 💻 **Portfolio Personal** - Diseñando mi sitio web personal
+
+### 🎯 Próximos proyectos:
+- 🌐 **App web completa** con React y Node.js
+- 📱 **Aplicación móvil** con React Native
+- 🤖 **Bot de automatización** con Python
+- 📊 **Dashboard de datos** con visualizaciones
 
 ---
 
